@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+  }
+  h1 {
+    background-color: gray;
+    text-align: right;
+  }
+  hr {
+    height: 2px;
+    background-color: rgb(59, 202, 118);
+    border-color: white;
+  }
+  fieldset {
+    color: rgb(233, 224, 228);
+    text-transform: uppercase;
+  }
